@@ -33,7 +33,7 @@ Built using Python’s native `tkinter` module with flexible layout management u
   <img src="picture/filled.png" alt="filled" style="width:65%; height:auto;"/>
 </p>
 
-- Insert your API Key in `API_KEY_WEATHER`. You can get your API key from [here](home.openweathermap.org/api_keys)
-- Run `main.py`
-- Fill the entry with city's name (Example: Jakarta)
-- Click `Search` button
+- Insert your API Key in `API_KEY_WEATHER` (you can get your API key from [here](home.openweathermap.org/api_keys).
+- Run `main.py`.
+- Fill the entry with city's name (Example: Jakarta).
+- Click `Search` button.
