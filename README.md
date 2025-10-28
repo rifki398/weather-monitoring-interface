@@ -35,3 +35,11 @@ Integrates an image map view of the selected city using OpenStreetMap (as a free
 - Run `main.py`.
 - Fill the entry with city's name (Example: Jakarta).
 - Click `Search` button.
+
+---
+
+## Dependencies
+- Tkinter (8.6)
+- Static Map (0.5.7)
+- Requests (2.32.3)
+- Pillow (10.4.0)
