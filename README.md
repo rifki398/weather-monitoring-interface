@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="picture/empty.png" alt="empty_img" style="width:65%; height:auto;"/>
+  <img src="picture/empty.png" alt="empty_img" style="width:75%; height:auto;"/>
 </p>
 
 
@@ -15,14 +15,14 @@
 **1. City Name Input**  
 Enter a city name to fetch and display live weather information.
 
-**2. Comprehensive Weather Data**
+**2. Comprehensive Weather Data**   
 - Latitude & Longitude
 - Temperature (°C)  
 - Feels Like Temperature (°C)  
 - Humidity (%)  
 - Pressure
 
-**3. Automatic Map Display**
+**3. Automatic Map Display**   
 Integrates an image map view of the selected city using OpenStreetMap (as a free alternative to Google Maps).
 
 ---
@@ -31,7 +31,7 @@ Integrates an image map view of the selected city using OpenStreetMap (as a free
 
 
 <p align="center">
-  <img src="picture/filled.png" alt="filled_img" style="width:65%; height:auto;"/>
+  <img src="picture/filled.png" alt="filled_img" style="width:75%; height:auto;"/>
 </p>
 
 
