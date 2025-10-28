@@ -15,7 +15,7 @@
 1. **City Name Input**  
 Enter a city name to fetch and display live weather information.
 
-2. **Comprehensive Weather Data**
+2. **Comprehensive Weather Data**   
 Showing several parameters such as:
 - Latitude & Longitude
 - Temperature (°C)  
