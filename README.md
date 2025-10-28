@@ -17,11 +17,11 @@ Enter a city name to fetch and display live weather information.
 
 2. **Comprehensive Weather Data**   
 Showing several parameters such as:
-  - Latitude & Longitude
-  - Temperature (°C)  
-  - Feels Like Temperature (°C)  
-  - Humidity (%)  
-  - Pressure
+-  Latitude & Longitude
+-  Temperature (°C)
+-  Feels Like Temperature (°C)  
+-  Humidity (%)
+-  Atmosphere Pressure (hPa)
 
 3. **Automatic Map Display**   
 Integrates an image map view of the selected city using OpenStreetMap (as a free alternative to Google Maps).
